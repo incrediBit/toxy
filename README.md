@@ -1,0 +1,1 @@
+"Toxy by incrediBit is a powerful Python script designed for Linux systems. It automates the entire process of setting up a secure Browse environment by installing Tor and configuring ProxyChains to work seamlessly with it."
